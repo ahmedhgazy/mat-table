@@ -11,25 +11,7 @@ import { MatSort, MatSortModule } from '@angular/material/sort';
 import { MatTableDataSource, MatTableModule } from '@angular/material/table';
 import { MatInputModule } from '@angular/material/input';
 import { MatFormFieldModule } from '@angular/material/form-field';
-export interface PeriodicElement {
-  code: number;
-  name: string;
-  price: number;
-  status: string;
-}
 
-const ELEMENT_DATA: PeriodicElement[] = [
-  { code: 1, name: 'Hydrogen', price: 1.0079, status: 'H' },
-  { code: 2, name: 'Helium', price: 4.0026, status: 'He' },
-  { code: 3, name: 'Lithium', price: 6.941, status: 'Li' },
-  { code: 4, name: 'Beryllium', price: 9.0122, status: 'Be' },
-  { code: 5, name: 'Boron', price: 10.811, status: 'B' },
-  { code: 6, name: 'Carbon', price: 12.0107, status: 'C' },
-  { code: 7, name: 'Nitrogen', price: 14.0067, status: 'N' },
-  { code: 8, name: 'Oxygen', price: 15.9994, status: 'O' },
-  { code: 9, name: 'Fluorine', price: 18.9984, status: 'F' },
-  { code: 10, name: 'Neon', price: 20.1797, status: 'Ne' },
-];
 
 @Component({
   selector: 'app-products',
