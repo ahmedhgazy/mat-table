@@ -1,0 +1,466 @@
+{
+  "products": [
+    {
+      "code": "P001",
+      "name": "Product 1",
+      "price": 100.0,
+      "category": "Electronics",
+      "status": "In Stock"
+    },
+    {
+      "code": "P002",
+      "name": "Product 2",
+      "price": 200.0,
+      "category": "Books",
+      "status": "Out of Stock"
+    },
+    {
+      "code": "P003",
+      "name": "Product 3",
+      "price": 150.0,
+      "category": "Clothing",
+      "status": "In Stock"
+    },
+    {
+      "code": "P004",
+      "name": "Product 4",
+      "price": 50.0,
+      "category": "Toys",
+      "status": "In Stock"
+    },
+    {
+      "code": "P005",
+      "name": "Product 5",
+      "price": 300.0,
+      "category": "Electronics",
+      "status": "Out of Stock"
+    },
+    {
+      "code": "P006",
+      "name": "Product 6",
+      "price": 250.0,
+      "category": "Home Appliances",
+      "status": "In Stock"
+    },
+    {
+      "code": "P007",
+      "name": "Product 7",
+      "price": 75.0,
+      "category": "Sports Equipment",
+      "status": "In Stock"
+    },
+    {
+      "code": "P008",
+      "name": "Product 8",
+      "price": 400.0,
+      "category": "Electronics",
+      "status": "Out of Stock"
+    },
+    {
+      "code": "P009",
+      "name": "Product 9",
+      "price": 180.0,
+      "category": "Clothing",
+      "status": "In Stock"
+    },
+    {
+      "code": "P010",
+      "name": "Product 10",
+      "price": 120.0,
+      "category": "Books",
+      "status": "In Stock"
+    },
+    {
+      "code": "P011",
+      "name": "Product 11",
+      "price": 220.0,
+      "category": "Electronics",
+      "status": "In Stock"
+    },
+    {
+      "code": "P012",
+      "name": "Product 12",
+      "price": 80.0,
+      "category": "Toys",
+      "status": "In Stock"
+    },
+    {
+      "code": "P013",
+      "name": "Product 13",
+      "price": 350.0,
+      "category": "Home Appliances",
+      "status": "Out of Stock"
+    },
+    {
+      "code": "P014",
+      "name": "Product 14",
+      "price": 90.0,
+      "category": "Sports Equipment",
+      "status": "In Stock"
+    },
+    {
+      "code": "P015",
+      "name": "Product 15",
+      "price": 500.0,
+      "category": "Electronics",
+      "status": "Out of Stock"
+    },
+    {
+      "code": "P016",
+      "name": "Product 16",
+      "price": 210.0,
+      "category": "Clothing",
+      "status": "In Stock"
+    },
+    {
+      "code": "P017",
+      "name": "Product 17",
+      "price": 130.0,
+      "category": "Books",
+      "status": "In Stock"
+    },
+    {
+      "code": "P018",
+      "name": "Product 18",
+      "price": 70.0,
+      "category": "Toys",
+      "status": "In Stock"
+    },
+    {
+      "code": "P019",
+      "name": "Product 19",
+      "price": 400.0,
+      "category": "Home Appliances",
+      "status": "Out of Stock"
+    },
+    {
+      "code": "P020",
+      "name": "Product 20",
+      "price": 100.0,
+      "category": "Sports Equipment",
+      "status": "In Stock"
+    },
+    {
+      "code": "P021",
+      "name": "Product 21",
+      "price": 280.0,
+      "category": "Electronics",
+      "status": "In Stock"
+    },
+    {
+      "code": "P022",
+      "name": "Product 22",
+      "price": 120.0,
+      "category": "Clothing",
+      "status": "In Stock"
+    },
+    {
+      "code": "P023",
+      "name": "Product 23",
+      "price": 150.0,
+      "category": "Books",
+      "status": "In Stock"
+    },
+    {
+      "code": "P024",
+      "name": "Product 24",
+      "price": 60.0,
+      "category": "Toys",
+      "status": "In Stock"
+    },
+    {
+      "code": "P025",
+      "name": "Product 25",
+      "price": 600.0,
+      "category": "Home Appliances",
+      "status": "Out of Stock"
+    },
+    {
+      "code": "P026",
+      "name": "Product 26",
+      "price": 110.0,
+      "category": "Sports Equipment",
+      "status": "In Stock"
+    },
+    {
+      "code": "P027",
+      "name": "Product 27",
+      "price": 250.0,
+      "category": "Electronics",
+      "status": "Out of Stock"
+    },
+    {
+      "code": "P028",
+      "name": "Product 28",
+      "price": 130.0,
+      "category": "Clothing",
+      "status": "In Stock"
+    },
+    {
+      "code": "P029",
+      "name": "Product 29",
+      "price": 170.0,
+      "category": "Books",
+      "status": "In Stock"
+    },
+    {
+      "code": "P030",
+      "name": "Product 30",
+      "price": 80.0,
+      "category": "Toys",
+      "status": "In Stock"
+    },
+    {
+      "code": "P031",
+      "name": "Product 31",
+      "price": 700.0,
+      "category": "Home Appliances",
+      "status": "Out of Stock"
+    },
+    {
+      "code": "P032",
+      "name": "Product 32",
+      "price": 140.0,
+      "category": "Sports Equipment",
+      "status": "In Stock"
+    },
+    {
+      "code": "P033",
+      "name": "Product 33",
+      "price": 300.0,
+      "category": "Home Appliances",
+      "status": "In Stock"
+    },
+    {
+      "code": "P033",
+      "name": "Product 33",
+      "price": 300.0,
+      "category": "Electronics",
+      "status": "Out of Stock"
+    },
+    {
+      "code": "P034",
+      "name": "Product 34",
+      "price": 160.0,
+      "category": "Clothing",
+      "status": "In Stock"
+    },
+    {
+      "code": "P035",
+      "name": "Product 35",
+      "price": 190.0,
+      "category": "Books",
+      "status": "In Stock"
+    },
+    {
+      "code": "P036",
+      "name": "Product 36",
+      "price": 90.0,
+      "category": "Toys",
+      "status": "In Stock"
+    },
+    {
+      "code": "P037",
+      "name": "Product 37",
+      "price": 800.0,
+      "category": "Home Appliances",
+      "status": "Out of Stock"
+    },
+    {
+      "code": "P038",
+      "name": "Product 38",
+      "price": 150.0,
+      "category": "Sports Equipment",
+      "status": "In Stock"
+    },
+    {
+      "code": "P039",
+      "name": "Product 39",
+      "price": 330.0,
+      "category": "Electronics",
+      "status": "Out of Stock"
+    },
+    {
+      "code": "P040",
+      "name": "Product 40",
+      "price": 170.0,
+      "category": "Clothing",
+      "status": "In Stock"
+    },
+    {
+      "code": "P041",
+      "name": "Product 41",
+      "price": 200.0,
+      "category": "Books",
+      "status": "In Stock"
+    },
+    {
+      "code": "P042",
+      "name": "Product 42",
+      "price": 100.0,
+      "category": "Toys",
+      "status": "In Stock"
+    },
+    {
+      "code": "P043",
+      "name": "Product 43",
+      "price": 900.0,
+      "category": "Home Appliances",
+      "status": "Out of Stock"
+    },
+    {
+      "code": "P044",
+      "name": "Product 44",
+      "price": 170.0,
+      "category": "Sports Equipment",
+      "status": "In Stock"
+    },
+    {
+      "code": "P045",
+      "name": "Product 45",
+      "price": 350.0,
+      "category": "Electronics",
+      "status": "Out of Stock"
+    },
+    {
+      "code": "P046",
+      "name": "Product 46",
+      "price": 180.0,
+      "category": "Clothing",
+      "status": "In Stock"
+    },
+    {
+      "code": "P047",
+      "name": "Product 47",
+      "price": 220.0,
+      "category": "Books",
+      "status": "In Stock"
+    },
+    {
+      "code": "P048",
+      "name": "Product 48",
+      "price": 110.0,
+      "category": "Toys",
+      "status": "In Stock"
+    },
+    {
+      "code": "P049",
+      "name": "Product 49",
+      "price": 950.0,
+      "category": "Home Appliances",
+      "status": "Out of Stock"
+    },
+    {
+      "code": "P050",
+      "name": "Product 50",
+      "price": 190.0,
+      "category": "Sports Equipment",
+      "status": "In Stock"
+    },
+    {
+      "code": "P051",
+      "name": "Product 51",
+      "price": 380.0,
+      "category": "Electronics",
+      "status": "Out of Stock"
+    },
+    {
+      "code": "P052",
+      "name": "Product 52",
+      "price": 200.0,
+      "category": "Clothing",
+      "status": "In Stock"
+    },
+    {
+      "code": "P053",
+      "name": "Product 53",
+      "price": 250.0,
+      "category": "Books",
+      "status": "In Stock"
+    },
+    {
+      "code": "P054",
+      "name": "Product 54",
+      "price": 120.0,
+      "category": "Toys",
+      "status": "In Stock"
+    },
+    {
+      "code": "P055",
+      "name": "Product 55",
+      "price": 1100.0,
+      "category": "Home Appliances",
+      "status": "Out of Stock"
+    },
+    {
+      "code": "P056",
+      "name": "Product 56",
+      "price": 200.0,
+      "category": "Sports Equipment",
+      "status": "In Stock"
+    },
+    {
+      "code": "P057",
+      "name": "Product 57",
+      "price": 420.0,
+      "category": "Electronics",
+      "status": "Out of Stock"
+    },
+    {
+      "code": "P058",
+      "name": "Product 58",
+      "price": 210.0,
+      "category": "Clothing",
+      "status": "In Stock"
+    },
+    {
+      "code": "P059",
+      "name": "Product 59",
+      "price": 270.0,
+      "category": "Books",
+      "status": "In Stock"
+    },
+    {
+      "code": "P060",
+      "name": "Product 60",
+      "price": 140.0,
+      "category": "Toys",
+      "status": "In Stock"
+    },
+    {
+      "code": "P061",
+      "name": "Product 61",
+      "price": 1200.0,
+      "category": "Home Appliances",
+      "status": "Out of Stock"
+    },
+    {
+      "code": "P062",
+      "name": "Product 62",
+      "price": 220.0,
+      "category": "Sports Equipment",
+      "status": "In Stock"
+    },
+    {
+      "code": "P063",
+      "name": "Product 63",
+      "price": 480.0,
+      "category": "Electronics",
+      "status": "Out of Stock"
+    },
+    {
+      "code": "P064",
+      "name": "Product 64",
+      "price": 230.0,
+      "category": "Clothing",
+      "status": "In Stock"
+    },
+    {
+      "code": "P065",
+      "name": "Product 65",
+      "price": 300.0,
+      "category": "Books",
+      "status": "In Stock"
+    }
+  ]
+}
